@@ -1,0 +1,2 @@
+2022-12-08 19:13:39 - PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in C:\xampp\htdocs\magazin\upload\system\library\image.php on line 45
+2022-12-08 19:14:11 - PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in C:\xampp\htdocs\magazin\upload\system\library\image.php on line 45
